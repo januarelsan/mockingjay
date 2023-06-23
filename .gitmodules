@@ -1,0 +1,3 @@
+[submodule "Assets/WaterJay"]
+	path = Assets/WaterJay
+	url = https://github.com/januarelsan/waterjay.git
